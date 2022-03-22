@@ -116,4 +116,3 @@ public class MappingController {
         return "ok";
     }
 }
-핑
